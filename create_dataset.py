@@ -1,6 +1,7 @@
 import cv2
 import os
 
+#Start Capturing
 def start_capture(name):
         path = "./data/" + name
         num_of_images = 0
